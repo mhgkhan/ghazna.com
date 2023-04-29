@@ -97,7 +97,7 @@ main .pic{
     margin-left: 10px;
 }
 .content span{
-    color: orangered;
+    color: blueviolet;
     margin: 0px 7px;
     transition: 1s;
 }
@@ -119,7 +119,7 @@ main .pic{
 fieldset{
     width: 90%;
     padding: 10px;
-    border: 1px solid orangered;
+    border: 1px solid blue;
     transition: 2s;
 }
 fieldset:hover{
@@ -130,7 +130,7 @@ fieldset:hover{
 fieldset legend{
     margin: 5px 12px;
     font-size: 1.5rem;
-    color: orangered;
+    color: blueviolet;
     padding: 5px;
 }
 
@@ -147,17 +147,17 @@ fieldset .box-source a{
     margin: 5px auto;
     text-align: center;
     padding: 8px 12px;
-    background: orangered;
+    background: blueviolet;
     border-radius: 3px;
     font-weight: bold;
     text-decoration: none;
-    color: aliceblue;
+    color: white;
     transition: 1s;
 }
 
 .box-source a:hover{
     background: white;
-    color: orangered;
+    color: blueviolet;
 }
 
 .img{
